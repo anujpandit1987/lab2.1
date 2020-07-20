@@ -1,1 +1,2 @@
 This is test file only for test purpose.
+This file extension has been changed.
